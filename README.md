@@ -1,6 +1,6 @@
 # Build a Metadata Microservice
 
-[--> How it should look](https://exercise-tracker.freecodecamp.rocks/)
+[--> How it should look](https://file-metadata-microservice.freecodecamp.rocks/)
 
 This was a project required for getting the Back End Development and APIs Certificate from freeCodeCamp. It had to pass these tests.
 
